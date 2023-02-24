@@ -4,7 +4,7 @@
   "version": "2.0.9",
   "author": "Andre Zimpel <andre@unknownbasics.com>",
   "bugs": {
-    "url": "https://github.com/andrezimpel/gatsby-plugin-gdpr-cookies/issues"
+    "url": "https://github.com/Tom-Ski/gatsby-plugin-gdpr-cookies/issues"
   },
   "dependencies": {
     "@babel/runtime": "^7.11.2"
@@ -29,7 +29,7 @@
     "lodash": "^4.17.20",
     "prettier": "^2.1.2"
   },
-  "homepage": "https://github.com/andrezimpel/gatsby-plugin-gdpr-cookies#readme",
+  "homepage": "https://github.com/Tom-Ski/gatsby-plugin-gdpr-cookies#readme",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
@@ -54,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrezimpel/gatsby-plugin-gdpr-cookies.git"
+    "url": "git+https://github.com/Tom-Ski/gatsby-plugin-gdpr-cookies.git"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__",
