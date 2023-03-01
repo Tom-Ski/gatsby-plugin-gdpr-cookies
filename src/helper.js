@@ -36,6 +36,6 @@ exports.getCookie = name => {
 }
 
 exports.isEnvironmentValid = (environments) => {
-  const currentEnvironment = process.env.DEPLOYMENT || `development`
+  const currentEnvironment = process.env.GATSBY_DEPLOYMENT || `development`
   return environments.includes(currentEnvironment)
 }
